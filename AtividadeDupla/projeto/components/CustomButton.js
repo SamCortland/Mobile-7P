@@ -1,6 +1,6 @@
 import React from 'react';
 import { TouchableOpacity, Text, StyleSheet } from 'react-native';
-import { theme } from '../src/styles/theme'; // Verifique se o caminho está correto para o seu arquivo
+import { theme } from '../src/styles/theme'; 
 
 export default function CustomButton({ title, onPress, color }) {
   return (

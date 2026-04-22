@@ -8,7 +8,7 @@ export default function HomeScreen() {
     <ScreenContainer>
       <Text style={globalStyles.title}>Página Inicial</Text>
       <Text style={homeStyles.welcomeText}>
-        Bem-vindo ao aplicativo. Utilize o menu de navegação para acessar as telas de modais e as listas com rolagem.
+        Bem-vindo ao aplicativo. Utilize o menu de navegação para acessar as demais telas.
       </Text>
     </ScreenContainer>
   );
